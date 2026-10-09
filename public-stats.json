@@ -2,9 +2,9 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 12,
+    "filed": 16,
     "sidewalk": 10,
-    "vehicles": 11,
+    "vehicles": 15,
     "repeat_vehicles": 1
   },
   "sections": [
@@ -41,6 +41,10 @@
           5
         ],
         [
+          "הל\"ה",
+          3
+        ],
+        [
           "הפלמ\"ח",
           2
         ],
@@ -49,11 +53,11 @@
           2
         ],
         [
-          "ביל\"ו",
-          1
+          "שדרות ש\"י עגנון",
+          2
         ],
         [
-          "הל\"ה",
+          "ביל\"ו",
           1
         ],
         [
@@ -78,6 +82,10 @@
           1
         ],
         [
+          "3049786",
+          1
+        ],
+        [
           "32730802",
           1
         ],
@@ -98,11 +106,23 @@
           1
         ],
         [
+          "6603268",
+          1
+        ],
+        [
+          "69728003",
+          1
+        ],
+        [
           "7208437",
           1
         ],
         [
           "74511303",
+          1
+        ],
+        [
+          "79285003",
           1
         ],
         [
@@ -120,7 +140,7 @@
         ],
         [
           "2026-10-09",
-          6
+          10
         ]
       ]
     ],
@@ -133,7 +153,7 @@
         ],
         [
           "2026-10-09",
-          6
+          10
         ]
       ]
     ],
@@ -150,7 +170,7 @@
         ],
         [
           "09:00",
-          2
+          6
         ],
         [
           "18:00",
@@ -166,11 +186,11 @@
       "יום בשבוע לפי זמן צילום",
       [
         [
-          "חמישי",
-          6
+          "שישי",
+          10
         ],
         [
-          "שישי",
+          "חמישי",
           6
         ]
       ]
@@ -180,7 +200,7 @@
       [
         [
           "2026-W41",
-          12
+          16
         ]
       ]
     ],
@@ -193,6 +213,14 @@
         ],
         [
           "חניה במעבר חציה",
+          3
+        ],
+        [
+          "bus_stop_parking",
+          1
+        ],
+        [
+          "red_white_curb_parking",
           1
         ],
         [
@@ -317,7 +345,7 @@
       0,
       0,
       2,
-      2,
+      6,
       0,
       0,
       0,
@@ -418,6 +446,16 @@
       "recorded_vehicle_description": "מיצובישי אאוטלנדר כסף מטאלי"
     },
     {
+      "plate": "3049786",
+      "reports": 1,
+      "registry_colour": null,
+      "licence_valid_until": null,
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "סוזוקי ויטרה לבנה"
+    },
+    {
       "plate": "32730802",
       "reports": 1,
       "registry_colour": null,
@@ -468,6 +506,26 @@
       "recorded_vehicle_description": "שברולט ספארק כסופה"
     },
     {
+      "plate": "6603268",
+      "reports": 1,
+      "registry_colour": null,
+      "licence_valid_until": "2026-12-16",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "מזדה 3 אפורה"
+    },
+    {
+      "plate": "69728003",
+      "reports": 1,
+      "registry_colour": null,
+      "licence_valid_until": "2027-02-20",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "טויוטה יאריס היברידית לבנה"
+    },
+    {
       "plate": "7208437",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -486,6 +544,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "טויוטה אייגו X לבנה"
+    },
+    {
+      "plate": "79285003",
+      "reports": 1,
+      "registry_colour": null,
+      "licence_valid_until": "2027-08-18",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "סוזוקי סוויפט כסף מטאלי"
     },
     {
       "plate": "80095201",
