@@ -2,9 +2,9 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 10,
-    "sidewalk": 8,
-    "vehicles": 9,
+    "filed": 12,
+    "sidewalk": 10,
+    "vehicles": 11,
     "repeat_vehicles": 1
   },
   "sections": [
@@ -21,6 +21,14 @@
         ],
         [
           "ביל\"ו",
+          1
+        ],
+        [
+          "הל\"ה",
+          1
+        ],
+        [
+          "מבצע קדש",
           1
         ]
       ]
@@ -43,6 +51,14 @@
         [
           "ביל\"ו",
           1
+        ],
+        [
+          "הל\"ה",
+          1
+        ],
+        [
+          "מבצע קדש",
+          1
         ]
       ]
     ],
@@ -62,7 +78,15 @@
           1
         ],
         [
+          "32730802",
+          1
+        ],
+        [
           "36630602",
+          1
+        ],
+        [
+          "48001804",
           1
         ],
         [
@@ -96,7 +120,7 @@
         ],
         [
           "2026-10-09",
-          4
+          6
         ]
       ]
     ],
@@ -109,7 +133,7 @@
         ],
         [
           "2026-10-09",
-          4
+          6
         ]
       ]
     ],
@@ -122,6 +146,10 @@
         ],
         [
           "08:00",
+          2
+        ],
+        [
+          "09:00",
           2
         ],
         [
@@ -143,7 +171,7 @@
         ],
         [
           "שישי",
-          4
+          6
         ]
       ]
     ],
@@ -152,7 +180,7 @@
       [
         [
           "2026-W41",
-          10
+          12
         ]
       ]
     ],
@@ -161,7 +189,7 @@
       [
         [
           "חניה על מדרכה",
-          8
+          10
         ],
         [
           "חניה במעבר חציה",
@@ -289,7 +317,7 @@
       0,
       0,
       2,
-      0,
+      2,
       0,
       0,
       0,
@@ -390,6 +418,16 @@
       "recorded_vehicle_description": "מיצובישי אאוטלנדר כסף מטאלי"
     },
     {
+      "plate": "32730802",
+      "reports": 1,
+      "registry_colour": null,
+      "licence_valid_until": "2026-10-31",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "טויוטה איגו לבנה"
+    },
+    {
       "plate": "36630602",
       "reports": 1,
       "registry_colour": "שחור",
@@ -398,6 +436,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "פורד שחורה"
+    },
+    {
+      "plate": "48001804",
+      "reports": 1,
+      "registry_colour": null,
+      "licence_valid_until": null,
+      "test_date": null,
+      "has_disability_tag": null,
+      "disability_tag_valid_until": "true",
+      "recorded_vehicle_description": "לינק אנד קו 08 לבנה"
     },
     {
       "plate": "49806703",
