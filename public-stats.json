@@ -390,11 +390,11 @@
     {
       "plate": "83040702",
       "reports": 2,
-      "registry_colour": null,
+      "registry_colour": "כסף מטלי",
       "licence_valid_until": "2027-04-24",
       "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": "2610-9138075",
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
       "recorded_vehicle_description": "ניסאן X-Trail כסופה"
     },
     {
@@ -441,10 +441,10 @@
       "plate": "48001804",
       "reports": 1,
       "registry_colour": null,
-      "licence_valid_until": null,
+      "licence_valid_until": "2027-03-07",
       "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": "true",
+      "has_disability_tag": true,
+      "disability_tag_valid_until": null,
       "recorded_vehicle_description": "לינק אנד קו 08 לבנה"
     },
     {
