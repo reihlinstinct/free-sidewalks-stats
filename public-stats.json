@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
+  "totals": {
+    "filed": 8,
+    "sidewalk": 6,
+    "vehicles": 8,
+    "repeat_vehicles": 0
+  },
+  "sections": [
+    [
+      "רחובות: דיווחי חניה על מדרכה בלבד",
+      [
+        [
+          "הפורצים",
+          4
+        ],
+        [
+          "חרל\"פ",
+          2
+        ]
+      ]
+    ],
+    [
+      "רחובות: כל הקטגוריות",
+      [
+        [
+          "הפורצים",
+          4
+        ],
+        [
+          "הפלמ\"ח",
+          2
+        ],
+        [
+          "חרל\"פ",
+          2
+        ]
+      ]
+    ],
+    [
+      "כלי רכב לפי מספר דיווחים",
+      [
+        [
+          "12178301",
+          1
+        ],
+        [
+          "36630602",
+          1
+        ],
+        [
+          "49806703",
+          1
+        ],
+        [
+          "6159978",
+          1
+        ],
+        [
+          "7208437",
+          1
+        ],
+        [
+          "74511303",
+          1
+        ],
+        [
+          "80095201",
+          1
+        ],
+        [
+          "83040702",
+          1
+        ]
+      ]
+    ],
+    [
+      "ימי הגשה (לא זמן צילום)",
+      [
+        [
+          "2026-10-08",
+          6
+        ],
+        [
+          "2026-10-09",
+          2
+        ]
+      ]
+    ],
+    [
+      "ימי צילום",
+      [
+        [
+          "2026-10-08",
+          6
+        ],
+        [
+          "2026-10-09",
+          2
+        ]
+      ]
+    ],
+    [
+      "שעת צילום לפי שעון ירושלים",
+      [
+        [
+          "05:00",
+          2
+        ],
+        [
+          "18:00",
+          1
+        ],
+        [
+          "19:00",
+          5
+        ]
+      ]
+    ],
+    [
+      "יום בשבוע לפי זמן צילום",
+      [
+        [
+          "חמישי",
+          6
+        ],
+        [
+          "שישי",
+          2
+        ]
+      ]
+    ],
+    [
+      "מגמה שבועית לפי זמן צילום",
+      [
+        [
+          "2026-W41",
+          8
+        ]
+      ]
+    ],
+    [
+      "סוג האירוע",
+      [
+        [
+          "חניה על מדרכה",
+          6
+        ],
+        [
+          "חניה במעבר חציה",
+          1
+        ],
+        [
+          "חסימת רמפה",
+          1
+        ]
+      ]
+    ]
+  ],
+  "heatmap": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "vehicle_registry": [
+    {
+      "plate": "12178301",
+      "reports": 1,
+      "registry_colour": "אפור כהה מטלי",
+      "licence_valid_until": "2027-02-07",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "טויוטה C-HR אפורה"
+    },
+    {
+      "plate": "36630602",
+      "reports": 1,
+      "registry_colour": "שחור",
+      "licence_valid_until": "2027-08-15",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "פורד שחורה"
+    },
+    {
+      "plate": "49806703",
+      "reports": 1,
+      "registry_colour": "אפור כהה",
+      "licence_valid_until": "2026-07-16",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "סובארו פורסטר ספורט אפורה כהה"
+    },
+    {
+      "plate": "6159978",
+      "reports": 1,
+      "registry_colour": "כסף",
+      "licence_valid_until": "2027-05-09",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "שברולט ספארק כסופה"
+    },
+    {
+      "plate": "7208437",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-02-21",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "רנו קליאו לבנה"
+    },
+    {
+      "plate": "74511303",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-05-19",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "טויוטה אייגו X לבנה"
+    },
+    {
+      "plate": "80095201",
+      "reports": 1,
+      "registry_colour": "כסף",
+      "licence_valid_until": "2026-11-16",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "סובארו פורסטר כסופה"
+    },
+    {
+      "plate": "83040702",
+      "reports": 1,
+      "registry_colour": "כסף מטלי",
+      "licence_valid_until": "2027-04-24",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "ניסאן X-Trail כסופה"
+    }
+  ],
+  "missing_capture_count": 0
+}
