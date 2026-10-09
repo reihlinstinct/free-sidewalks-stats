@@ -2,10 +2,10 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 8,
-    "sidewalk": 6,
-    "vehicles": 8,
-    "repeat_vehicles": 0
+    "filed": 10,
+    "sidewalk": 8,
+    "vehicles": 9,
+    "repeat_vehicles": 1
   },
   "sections": [
     [
@@ -13,11 +13,15 @@
       [
         [
           "הפורצים",
-          4
+          5
         ],
         [
           "חרל\"פ",
           2
+        ],
+        [
+          "ביל\"ו",
+          1
         ]
       ]
     ],
@@ -26,7 +30,7 @@
       [
         [
           "הפורצים",
-          4
+          5
         ],
         [
           "הפלמ\"ח",
@@ -35,6 +39,10 @@
         [
           "חרל\"פ",
           2
+        ],
+        [
+          "ביל\"ו",
+          1
         ]
       ]
     ],
@@ -42,7 +50,15 @@
       "כלי רכב לפי מספר דיווחים",
       [
         [
+          "83040702",
+          2
+        ],
+        [
           "12178301",
+          1
+        ],
+        [
+          "23692404",
           1
         ],
         [
@@ -68,10 +84,6 @@
         [
           "80095201",
           1
-        ],
-        [
-          "83040702",
-          1
         ]
       ]
     ],
@@ -84,7 +96,7 @@
         ],
         [
           "2026-10-09",
-          2
+          4
         ]
       ]
     ],
@@ -97,7 +109,7 @@
         ],
         [
           "2026-10-09",
-          2
+          4
         ]
       ]
     ],
@@ -106,6 +118,10 @@
       [
         [
           "05:00",
+          2
+        ],
+        [
+          "08:00",
           2
         ],
         [
@@ -127,7 +143,7 @@
         ],
         [
           "שישי",
-          2
+          4
         ]
       ]
     ],
@@ -136,7 +152,7 @@
       [
         [
           "2026-W41",
-          8
+          10
         ]
       ]
     ],
@@ -145,7 +161,7 @@
       [
         [
           "חניה על מדרכה",
-          6
+          8
         ],
         [
           "חניה במעבר חציה",
@@ -272,7 +288,7 @@
       2,
       0,
       0,
-      0,
+      2,
       0,
       0,
       0,
@@ -344,6 +360,16 @@
   ],
   "vehicle_registry": [
     {
+      "plate": "83040702",
+      "reports": 2,
+      "registry_colour": null,
+      "licence_valid_until": "2027-04-24",
+      "test_date": null,
+      "has_disability_tag": null,
+      "disability_tag_valid_until": "2610-9138075",
+      "recorded_vehicle_description": "ניסאן X-Trail כסופה"
+    },
+    {
       "plate": "12178301",
       "reports": 1,
       "registry_colour": "אפור כהה מטלי",
@@ -352,6 +378,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "טויוטה C-HR אפורה"
+    },
+    {
+      "plate": "23692404",
+      "reports": 1,
+      "registry_colour": "כסף מטאלי",
+      "licence_valid_until": "2027-03-29",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "מיצובישי אאוטלנדר כסף מטאלי"
     },
     {
       "plate": "36630602",
@@ -412,16 +448,6 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "סובארו פורסטר כסופה"
-    },
-    {
-      "plate": "83040702",
-      "reports": 1,
-      "registry_colour": "כסף מטלי",
-      "licence_valid_until": "2027-04-24",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "ניסאן X-Trail כסופה"
     }
   ],
   "missing_capture_count": 0
