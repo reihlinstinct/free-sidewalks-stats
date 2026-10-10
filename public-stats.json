@@ -2,10 +2,10 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 16,
-    "sidewalk": 10,
-    "vehicles": 15,
-    "repeat_vehicles": 1
+    "filed": 23,
+    "sidewalk": 16,
+    "vehicles": 20,
+    "repeat_vehicles": 2
   },
   "sections": [
     [
@@ -13,11 +13,11 @@
       [
         [
           "הפורצים",
-          5
+          9
         ],
         [
           "חרל\"פ",
-          2
+          4
         ],
         [
           "ביל\"ו",
@@ -38,7 +38,11 @@
       [
         [
           "הפורצים",
-          5
+          9
+        ],
+        [
+          "חרל\"פ",
+          4
         ],
         [
           "הל\"ה",
@@ -46,11 +50,7 @@
         ],
         [
           "הפלמ\"ח",
-          2
-        ],
-        [
-          "חרל\"פ",
-          2
+          3
         ],
         [
           "שדרות ש\"י עגנון",
@@ -71,10 +71,18 @@
       [
         [
           "83040702",
+          3
+        ],
+        [
+          "79285003",
           2
         ],
         [
           "12178301",
+          1
+        ],
+        [
+          "13915001",
           1
         ],
         [
@@ -83,6 +91,10 @@
         ],
         [
           "3049786",
+          1
+        ],
+        [
+          "3227458",
           1
         ],
         [
@@ -98,7 +110,15 @@
           1
         ],
         [
+          "49294001",
+          1
+        ],
+        [
           "49806703",
+          1
+        ],
+        [
+          "59366002",
           1
         ],
         [
@@ -122,7 +142,7 @@
           1
         ],
         [
-          "79285003",
+          "7636638",
           1
         ],
         [
@@ -141,6 +161,10 @@
         [
           "2026-10-09",
           10
+        ],
+        [
+          "2026-10-10",
+          7
         ]
       ]
     ],
@@ -154,6 +178,10 @@
         [
           "2026-10-09",
           10
+        ],
+        [
+          "2026-10-10",
+          7
         ]
       ]
     ],
@@ -178,7 +206,7 @@
         ],
         [
           "19:00",
-          5
+          12
         ]
       ]
     ],
@@ -188,6 +216,10 @@
         [
           "שישי",
           10
+        ],
+        [
+          "שבת",
+          7
         ],
         [
           "חמישי",
@@ -200,7 +232,7 @@
       [
         [
           "2026-W41",
-          16
+          23
         ]
       ]
     ],
@@ -209,7 +241,7 @@
       [
         [
           "חניה על מדרכה",
-          10
+          16
         ],
         [
           "חניה במעבר חציה",
@@ -217,7 +249,7 @@
         ],
         [
           "bus_stop_parking",
-          1
+          2
         ],
         [
           "red_white_curb_parking",
@@ -381,7 +413,7 @@
       0,
       0,
       0,
-      0,
+      7,
       0,
       0,
       0,
@@ -417,13 +449,23 @@
   "vehicle_registry": [
     {
       "plate": "83040702",
-      "reports": 2,
+      "reports": 3,
       "registry_colour": "כסף מטלי",
       "licence_valid_until": "2027-04-24",
       "test_date": null,
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "ניסאן X-Trail כסופה"
+    },
+    {
+      "plate": "79285003",
+      "reports": 2,
+      "registry_colour": "כסף מטלי",
+      "licence_valid_until": "2027-08-18",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": ""
     },
     {
       "plate": "12178301",
@@ -434,6 +476,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "טויוטה C-HR אפורה"
+    },
+    {
+      "plate": "13915001",
+      "reports": 1,
+      "registry_colour": "כסוף כהה",
+      "licence_valid_until": "2027-01-17",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "קיה פיקנטו כסופה כהה"
     },
     {
       "plate": "23692404",
@@ -454,6 +506,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "סוזוקי ויטרה לבנה"
+    },
+    {
+      "plate": "3227458",
+      "reports": 1,
+      "registry_colour": "כסף מטלי",
+      "licence_valid_until": "2026-11-27",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "סוזוקי SX4 כסופה"
     },
     {
       "plate": "32730802",
@@ -486,6 +548,16 @@
       "recorded_vehicle_description": "לינק אנד קו 08 לבנה"
     },
     {
+      "plate": "49294001",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-07-02",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "פולקסווגן טיגואן לבנה"
+    },
+    {
       "plate": "49806703",
       "reports": 1,
       "registry_colour": "אפור כהה",
@@ -494,6 +566,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "סובארו פורסטר ספורט אפורה כהה"
+    },
+    {
+      "plate": "59366002",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-05-12",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "סוזוקי איגניס שנהב לבן"
     },
     {
       "plate": "6159978",
@@ -546,14 +628,14 @@
       "recorded_vehicle_description": "טויוטה אייגו X לבנה"
     },
     {
-      "plate": "79285003",
+      "plate": "7636638",
       "reports": 1,
-      "registry_colour": null,
-      "licence_valid_until": "2027-08-18",
+      "registry_colour": "שחור",
+      "licence_valid_until": "2027-04-16",
       "test_date": null,
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "סוזוקי סוויפט כסף מטאלי"
+      "recorded_vehicle_description": "קיה סיד שחורה"
     },
     {
       "plate": "80095201",
