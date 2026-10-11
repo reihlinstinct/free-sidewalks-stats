@@ -2,9 +2,9 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 23,
-    "sidewalk": 16,
-    "vehicles": 20,
+    "filed": 25,
+    "sidewalk": 18,
+    "vehicles": 22,
     "repeat_vehicles": 2
   },
   "sections": [
@@ -13,7 +13,7 @@
       [
         [
           "הפורצים",
-          9
+          11
         ],
         [
           "חרל\"פ",
@@ -38,7 +38,7 @@
       [
         [
           "הפורצים",
-          9
+          11
         ],
         [
           "חרל\"פ",
@@ -118,6 +118,10 @@
           1
         ],
         [
+          "55163803",
+          1
+        ],
+        [
           "59366002",
           1
         ],
@@ -148,6 +152,10 @@
         [
           "80095201",
           1
+        ],
+        [
+          "87583802",
+          1
         ]
       ]
     ],
@@ -165,6 +173,10 @@
         [
           "2026-10-10",
           7
+        ],
+        [
+          "2026-10-11",
+          2
         ]
       ]
     ],
@@ -182,6 +194,10 @@
         [
           "2026-10-10",
           7
+        ],
+        [
+          "2026-10-11",
+          2
         ]
       ]
     ],
@@ -202,7 +218,7 @@
         ],
         [
           "18:00",
-          1
+          3
         ],
         [
           "19:00",
@@ -224,6 +240,10 @@
         [
           "חמישי",
           6
+        ],
+        [
+          "ראשון",
+          2
         ]
       ]
     ],
@@ -232,7 +252,7 @@
       [
         [
           "2026-W41",
-          23
+          25
         ]
       ]
     ],
@@ -241,7 +261,7 @@
       [
         [
           "חניה על מדרכה",
-          16
+          18
         ],
         [
           "חניה במעבר חציה",
@@ -438,7 +458,7 @@
       0,
       0,
       0,
-      0,
+      2,
       0,
       0,
       0,
@@ -568,6 +588,16 @@
       "recorded_vehicle_description": "סובארו פורסטר ספורט אפורה כהה"
     },
     {
+      "plate": "55163803",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-09-26",
+      "test_date": null,
+      "has_disability_tag": null,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "קיה סלטוס שנהב לבן"
+    },
+    {
       "plate": "59366002",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -646,6 +676,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "סובארו פורסטר כסופה"
+    },
+    {
+      "plate": "87583802",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-05-03",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "טויוטה קורולה שנהב לבן"
     }
   ],
   "missing_capture_count": 0
