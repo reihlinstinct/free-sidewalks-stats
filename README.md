@@ -1,5 +1,7 @@
 # מדרכות פנויות - נתוני דיווחים
 
+[![signing-safety](https://github.com/reihlinstinct/free-sidewalks-stats/actions/workflows/signing-safety.yml/badge.svg)](https://github.com/reihlinstinct/free-sidewalks-stats/actions/workflows/signing-safety.yml)
+
 Hebrew RTL static dashboard of collected parking reports and vehicle registry snapshots. This is a clean public export repository, not a mirror of the private evidence repository.
 
 Published fields: aggregate street/category/time statistics, normalized plates, per-plate counts, and available registry snapshots. Photos, precise house numbers/GPS, municipal/report identifiers, original records, reporter details and private history are excluded. No external scripts, trackers or image assets.
