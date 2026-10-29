@@ -5,9 +5,10 @@ user-facing content and interfaces.
 
 ## What we do
 
-- Semantic markup and keyboard-navigable interfaces.
+- The project publishes a static Hebrew (RTL) dashboard: plain HTML, no external scripts, trackers or image assets.
+- Semantic markup and keyboard-navigable content.
 - Readable contrast and scalable text.
-- The project ships a web UI / site. We check it with automated accessibility tests in Chrome and WebKit (Safari) in CI, and review visual changes on desktop and mobile.
+- We do not run automated accessibility tests in CI today; changes are reviewed manually on desktop and mobile.
 
 ## Known limitations
 
