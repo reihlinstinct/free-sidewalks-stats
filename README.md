@@ -7,3 +7,5 @@ Published fields: aggregate street/category/time statistics, normalized plates, 
 Reports do not establish a fine, completed treatment or a legal finding. Missing/conflicting registry fields stay blank. Recorded car descriptions are not registry-confirmed models. Registry snapshots do not prove historical validity.
 
 Only `index.html` and `public-stats.json` are refreshed automatically after private allowlist tests pass. GitHub Pages serves the root of main over HTTPS. No private source access or source credentials are held here. Public copies and Git history may persist even after current-page removal.
+
+Every workflow ends with a `Run summary` job that writes a summary to the top of the run page: which jobs ran, their result and duration, what was skipped and why, the commits and files the run changed, and which checks cover those changes (`.github/ci-coverage-map.json` declares the coverage; files matching no mapping are flagged). The script is `scripts/ci/run_summary.py`.
