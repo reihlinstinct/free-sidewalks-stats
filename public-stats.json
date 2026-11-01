@@ -2,7 +2,7 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 173,
+    "filed": 174,
     "sidewalk": 137,
     "vehicles": 110,
     "repeat_vehicles": 31
@@ -94,7 +94,7 @@
         ],
         [
           "הפלמח",
-          15
+          16
         ],
         [
           "גנרל פייר קניג",
@@ -226,6 +226,10 @@
           3
         ],
         [
+          "87583802",
+          3
+        ],
+        [
           "9150939",
           3
         ],
@@ -279,10 +283,6 @@
         ],
         [
           "80866702",
-          2
-        ],
-        [
-          "87583802",
           2
         ],
         [
@@ -696,7 +696,7 @@
         ],
         [
           "2026-11-01",
-          11
+          12
         ]
       ]
     ],
@@ -761,7 +761,7 @@
         ],
         [
           "2026-11-01",
-          11
+          12
         ]
       ]
     ],
@@ -794,7 +794,7 @@
         ],
         [
           "16:00",
-          8
+          9
         ],
         [
           "17:00",
@@ -819,7 +819,7 @@
       [
         [
           "ראשון",
-          30
+          31
         ],
         [
           "שלישי",
@@ -864,7 +864,7 @@
         ],
         [
           "2026-W44",
-          22
+          23
         ]
       ]
     ],
@@ -877,7 +877,7 @@
         ],
         [
           "red_white_curb",
-          11
+          12
         ],
         [
           "חניה במעבר חציה",
@@ -1100,7 +1100,7 @@
       0,
       0,
       0,
-      4,
+      5,
       4,
       2,
       0,
@@ -1242,6 +1242,16 @@
       "recorded_vehicle_description": ""
     },
     {
+      "plate": "87583802",
+      "reports": 3,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-05-03",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "טויוטה קורולה שנהב לבן"
+    },
+    {
       "plate": "9150939",
       "reports": 3,
       "registry_colour": "שנהב לבן",
@@ -1380,16 +1390,6 @@
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "87583802",
-      "reports": 2,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-05-03",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "טויוטה קורולה שנהב לבן"
     },
     {
       "plate": "91695201",
