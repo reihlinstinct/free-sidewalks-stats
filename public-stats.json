@@ -2,9 +2,9 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 171,
-    "sidewalk": 135,
-    "vehicles": 108,
+    "filed": 173,
+    "sidewalk": 137,
+    "vehicles": 110,
     "repeat_vehicles": 31
   },
   "sections": [
@@ -13,7 +13,7 @@
       [
         [
           "הפורצים",
-          49
+          50
         ],
         [
           "חרלפ",
@@ -25,7 +25,7 @@
         ],
         [
           "גנרל פייר קניג",
-          7
+          8
         ],
         [
           "בן סרוק",
@@ -86,7 +86,7 @@
       [
         [
           "הפורצים",
-          55
+          56
         ],
         [
           "חרלפ",
@@ -97,12 +97,12 @@
           15
         ],
         [
-          "פועלי צדק",
+          "גנרל פייר קניג",
           9
         ],
         [
-          "גנרל פייר קניג",
-          8
+          "פועלי צדק",
+          9
         ],
         [
           "הל\"ה",
@@ -542,6 +542,10 @@
           1
         ],
         [
+          "74484404",
+          1
+        ],
+        [
           "74511303",
           1
         ],
@@ -559,6 +563,10 @@
         ],
         [
           "80095201",
+          1
+        ],
+        [
+          "8044837",
           1
         ],
         [
@@ -688,7 +696,7 @@
         ],
         [
           "2026-11-01",
-          9
+          11
         ]
       ]
     ],
@@ -753,7 +761,7 @@
         ],
         [
           "2026-11-01",
-          9
+          11
         ]
       ]
     ],
@@ -786,7 +794,7 @@
         ],
         [
           "16:00",
-          6
+          8
         ],
         [
           "17:00",
@@ -811,7 +819,7 @@
       [
         [
           "ראשון",
-          28
+          30
         ],
         [
           "שלישי",
@@ -856,7 +864,7 @@
         ],
         [
           "2026-W44",
-          20
+          22
         ]
       ]
     ],
@@ -865,7 +873,7 @@
       [
         [
           "חניה על מדרכה",
-          135
+          137
         ],
         [
           "red_white_curb",
@@ -1092,7 +1100,7 @@
       0,
       0,
       0,
-      2,
+      4,
       4,
       2,
       0,
@@ -1337,7 +1345,7 @@
       "plate": "73274504",
       "reports": 2,
       "registry_colour": "שחור מטלי",
-      "licence_valid_until": "2027-06-30",
+      "licence_valid_until": "2027-06-29",
       "test_date": null,
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
@@ -2024,6 +2032,16 @@
       "recorded_vehicle_description": "I10"
     },
     {
+      "plate": "74484404",
+      "reports": 1,
+      "registry_colour": null,
+      "licence_valid_until": null,
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "טנדר שברולט סילברדו אפור-כסוף"
+    },
+    {
       "plate": "74511303",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -2072,6 +2090,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "סובארו פורסטר כסופה"
+    },
+    {
+      "plate": "8044837",
+      "reports": 1,
+      "registry_colour": "שחור מטלי",
+      "licence_valid_until": "2027-06-29",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "דאצ'יה סנדרו שחורה"
     },
     {
       "plate": "82660901",
