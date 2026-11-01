@@ -2,9 +2,9 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 162,
-    "sidewalk": 126,
-    "vehicles": 99,
+    "filed": 171,
+    "sidewalk": 135,
+    "vehicles": 108,
     "repeat_vehicles": 31
   },
   "sections": [
@@ -18,6 +18,10 @@
         [
           "חרלפ",
           44
+        ],
+        [
+          "פועלי צדק",
+          9
         ],
         [
           "גנרל פייר קניג",
@@ -91,6 +95,10 @@
         [
           "הפלמח",
           15
+        ],
+        [
+          "פועלי צדק",
+          9
         ],
         [
           "גנרל פייר קניג",
@@ -318,6 +326,14 @@
           1
         ],
         [
+          "26063901",
+          1
+        ],
+        [
+          "2659730",
+          1
+        ],
+        [
           "27283502",
           1
         ],
@@ -335,6 +351,10 @@
         ],
         [
           "3049786",
+          1
+        ],
+        [
+          "31441302",
           1
         ],
         [
@@ -378,6 +398,10 @@
           1
         ],
         [
+          "43095901",
+          1
+        ],
+        [
           "4409333",
           1
         ],
@@ -387,6 +411,10 @@
         ],
         [
           "48001804",
+          1
+        ],
+        [
+          "4835954",
           1
         ],
         [
@@ -410,11 +438,23 @@
           1
         ],
         [
+          "53056104",
+          1
+        ],
+        [
           "5326231",
           1
         ],
         [
           "5340738",
+          1
+        ],
+        [
+          "5397253",
+          1
+        ],
+        [
+          "5839312",
           1
         ],
         [
@@ -542,6 +582,10 @@
           1
         ],
         [
+          "8692953",
+          1
+        ],
+        [
           "8995334",
           1
         ],
@@ -641,6 +685,10 @@
         [
           "2026-10-30",
           2
+        ],
+        [
+          "2026-11-01",
+          9
         ]
       ]
     ],
@@ -702,6 +750,10 @@
         [
           "2026-10-30",
           2
+        ],
+        [
+          "2026-11-01",
+          9
         ]
       ]
     ],
@@ -727,6 +779,10 @@
         [
           "09:00",
           8
+        ],
+        [
+          "10:00",
+          9
         ],
         [
           "16:00",
@@ -755,7 +811,7 @@
       [
         [
           "ראשון",
-          19
+          28
         ],
         [
           "שלישי",
@@ -800,7 +856,7 @@
         ],
         [
           "2026-W44",
-          11
+          20
         ]
       ]
     ],
@@ -809,7 +865,7 @@
       [
         [
           "חניה על מדרכה",
-          126
+          135
         ],
         [
           "red_white_curb",
@@ -1030,7 +1086,7 @@
       6,
       0,
       0,
-      0,
+      9,
       0,
       0,
       0,
@@ -1428,6 +1484,26 @@
       "recorded_vehicle_description": "מיצובישי ספייס סטאר לבן"
     },
     {
+      "plate": "26063901",
+      "reports": 1,
+      "registry_colour": "שחור מטלי",
+      "licence_valid_until": "2027-10-01",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": "2024-12-17",
+      "recorded_vehicle_description": "סקודה סיטיגו שחורה"
+    },
+    {
+      "plate": "2659730",
+      "reports": 1,
+      "registry_colour": "שחור מטלי",
+      "licence_valid_until": "2026-11-22",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": "2025-11-28",
+      "recorded_vehicle_description": "ב.מ.וו X4 שחורה"
+    },
+    {
       "plate": "27283502",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -1476,6 +1552,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "סוזוקי ויטרה לבנה"
+    },
+    {
+      "plate": "31441302",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-06-27",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": "2025-07-17",
+      "recorded_vehicle_description": "מ.ג EHS לבן"
     },
     {
       "plate": "32002902",
@@ -1578,6 +1664,16 @@
       "recorded_vehicle_description": "SPORTAGE"
     },
     {
+      "plate": "43095901",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-01-26",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": "2025-04-08",
+      "recorded_vehicle_description": "קיה פיקנטו לבנה"
+    },
+    {
       "plate": "4409333",
       "reports": 1,
       "registry_colour": "בז",
@@ -1606,6 +1702,16 @@
       "has_disability_tag": true,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "לינק אנד קו 08 לבנה"
+    },
+    {
+      "plate": "4835954",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-07-29",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": "2024-09-22",
+      "recorded_vehicle_description": "סיאט איביזה לבנה"
     },
     {
       "plate": "49372801",
@@ -1658,6 +1764,16 @@
       "recorded_vehicle_description": "טויוטה קורולה לבנה"
     },
     {
+      "plate": "53056104",
+      "reports": 1,
+      "registry_colour": "כסוף כהה",
+      "licence_valid_until": "2027-03-15",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "קיה ספורטז' כסוף כהה"
+    },
+    {
       "plate": "5326231",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -1676,6 +1792,26 @@
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "FABIA"
+    },
+    {
+      "plate": "5397253",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-08-04",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": "2025-07-13",
+      "recorded_vehicle_description": "פולקסווגן פולו לבן"
+    },
+    {
+      "plate": "5839312",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-10-13",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": "2025-12-23",
+      "recorded_vehicle_description": "יונדאי i35 לבן"
     },
     {
       "plate": "59366002",
@@ -1986,6 +2122,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "קיה פיקנטו אפור"
+    },
+    {
+      "plate": "8692953",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-09-16",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": "2025-12-08",
+      "recorded_vehicle_description": "סוזוקי ספלאש לבנה"
     },
     {
       "plate": "8995334",
