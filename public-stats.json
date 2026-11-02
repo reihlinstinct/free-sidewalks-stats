@@ -2,10 +2,10 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 189,
-    "sidewalk": 146,
-    "vehicles": 116,
-    "repeat_vehicles": 32
+    "filed": 127,
+    "sidewalk": 98,
+    "vehicles": 84,
+    "repeat_vehicles": 24
   },
   "sections": [
     [
@@ -13,23 +13,19 @@
       [
         [
           "הפורצים",
-          51
+          41
         ],
         [
           "חרלפ",
-          50
-        ],
-        [
-          "פועלי צדק",
-          9
-        ],
-        [
-          "גנרל פייר קניג",
-          8
+          31
         ],
         [
           "בן סרוק",
           5
+        ],
+        [
+          "גנרל פייר קניג",
+          4
         ],
         [
           "איתמר בן אבי",
@@ -40,19 +36,11 @@
           3
         ],
         [
-          "הפלמח",
-          3
-        ],
-        [
-          "בן יהודה",
-          2
-        ],
-        [
           "הורקניה",
           2
         ],
         [
-          "הסדנא",
+          "הפלמח",
           2
         ],
         [
@@ -60,15 +48,11 @@
           2
         ],
         [
-          "אגריפס",
-          1
-        ],
-        [
           "ביל\"ו",
           1
         ],
         [
-          "הרב נורוק",
+          "הסדנא",
           1
         ],
         [
@@ -89,51 +73,35 @@
       "רחובות: כל הקטגוריות",
       [
         [
-          "חרלפ",
-          62
+          "הפורצים",
+          47
         ],
         [
-          "הפורצים",
-          57
+          "חרלפ",
+          37
         ],
         [
           "הפלמח",
-          16
-        ],
-        [
-          "גנרל פייר קניג",
-          9
-        ],
-        [
-          "פועלי צדק",
-          9
+          12
         ],
         [
           "הל\"ה",
-          8
+          7
         ],
         [
           "בן סרוק",
           5
         ],
         [
+          "גנרל פייר קניג",
+          4
+        ],
+        [
           "איתמר בן אבי",
           3
         ],
         [
-          "שדרות ש\"י עגנון",
-          3
-        ],
-        [
-          "בן יהודה",
-          2
-        ],
-        [
           "הורקניה",
-          2
-        ],
-        [
-          "הסדנא",
           2
         ],
         [
@@ -141,12 +109,8 @@
           2
         ],
         [
-          "אגריפס",
-          1
-        ],
-        [
-          "אלעזר המודעי",
-          1
+          "שדרות ש\"י עגנון",
+          2
         ],
         [
           "ביל\"ו",
@@ -157,15 +121,11 @@
           1
         ],
         [
-          "הרב נורוק",
+          "הסדנא",
           1
         ],
         [
           "חוסה דה סן מרטין",
-          1
-        ],
-        [
-          "כובשי קטמון",
           1
         ],
         [
@@ -182,31 +142,11 @@
       "כלי רכב לפי מספר דיווחים",
       [
         [
-          "23895403",
-          8
-        ],
-        [
           "44057403",
-          8
-        ],
-        [
-          "3707811",
-          7
-        ],
-        [
-          "16855201",
           5
         ],
         [
-          "21712",
-          5
-        ],
-        [
-          "2227734",
-          4
-        ],
-        [
-          "4504208",
+          "23895403",
           4
         ],
         [
@@ -214,15 +154,27 @@
           4
         ],
         [
-          "9150939",
-          4
-        ],
-        [
           "11840103",
           3
         ],
         [
+          "16855201",
+          3
+        ],
+        [
+          "21712",
+          3
+        ],
+        [
           "3227458",
+          3
+        ],
+        [
+          "3707811",
+          3
+        ],
+        [
+          "4504208",
           3
         ],
         [
@@ -238,7 +190,7 @@
           3
         ],
         [
-          "87583802",
+          "9150939",
           3
         ],
         [
@@ -250,31 +202,7 @@
           2
         ],
         [
-          "28861704",
-          2
-        ],
-        [
-          "3976534",
-          2
-        ],
-        [
-          "45602901",
-          2
-        ],
-        [
           "46262503",
-          2
-        ],
-        [
-          "59924904",
-          2
-        ],
-        [
-          "6159978",
-          2
-        ],
-        [
-          "6790937",
           2
         ],
         [
@@ -298,7 +226,7 @@
           2
         ],
         [
-          "91695201",
+          "87583802",
           2
         ],
         [
@@ -318,7 +246,7 @@
           1
         ],
         [
-          "22308203",
+          "2227734",
           1
         ],
         [
@@ -342,14 +270,6 @@
           1
         ],
         [
-          "26063901",
-          1
-        ],
-        [
-          "2659730",
-          1
-        ],
-        [
           "27283502",
           1
         ],
@@ -366,18 +286,6 @@
           1
         ],
         [
-          "31441302",
-          1
-        ],
-        [
-          "32002902",
-          1
-        ],
-        [
-          "3223566",
-          1
-        ],
-        [
           "32730802",
           1
         ],
@@ -390,15 +298,7 @@
           1
         ],
         [
-          "35859902",
-          1
-        ],
-        [
           "36630602",
-          1
-        ],
-        [
-          "36687504",
           1
         ],
         [
@@ -406,15 +306,19 @@
           1
         ],
         [
+          "3976534",
+          1
+        ],
+        [
           "42535201",
           1
         ],
         [
-          "43095901",
+          "4409333",
           1
         ],
         [
-          "4409333",
+          "45602901",
           1
         ],
         [
@@ -426,23 +330,11 @@
           1
         ],
         [
-          "4835954",
-          1
-        ],
-        [
           "49372801",
           1
         ],
         [
           "49806703",
-          1
-        ],
-        [
-          "5036830",
-          1
-        ],
-        [
-          "51474101",
           1
         ],
         [
@@ -454,10 +346,6 @@
           1
         ],
         [
-          "53056104",
-          1
-        ],
-        [
           "5326231",
           1
         ],
@@ -466,19 +354,7 @@
           1
         ],
         [
-          "5397253",
-          1
-        ],
-        [
-          "5839312",
-          1
-        ],
-        [
           "59366002",
-          1
-        ],
-        [
-          "6052080",
           1
         ],
         [
@@ -487,6 +363,10 @@
         ],
         [
           "6111731",
+          1
+        ],
+        [
+          "6159978",
           1
         ],
         [
@@ -506,10 +386,6 @@
           1
         ],
         [
-          "64541902",
-          1
-        ],
-        [
           "6475732",
           1
         ],
@@ -519,6 +395,10 @@
         ],
         [
           "6603268",
+          1
+        ],
+        [
+          "6790937",
           1
         ],
         [
@@ -558,19 +438,7 @@
           1
         ],
         [
-          "74484404",
-          1
-        ],
-        [
           "74511303",
-          1
-        ],
-        [
-          "7543371",
-          1
-        ],
-        [
-          "7599854",
           1
         ],
         [
@@ -586,19 +454,7 @@
           1
         ],
         [
-          "8044837",
-          1
-        ],
-        [
-          "8048079",
-          1
-        ],
-        [
           "82660901",
-          1
-        ],
-        [
-          "8267780",
           1
         ],
         [
@@ -610,35 +466,11 @@
           1
         ],
         [
-          "85264703",
-          1
-        ],
-        [
-          "85572002",
-          1
-        ],
-        [
-          "8692953",
-          1
-        ],
-        [
-          "88687001",
-          1
-        ],
-        [
           "8995334",
           1
         ],
         [
-          "9039675",
-          1
-        ],
-        [
           "9511932",
-          1
-        ],
-        [
-          "9689354",
           1
         ],
         [
@@ -704,35 +536,7 @@
         ],
         [
           "2026-10-21",
-          11
-        ],
-        [
-          "2026-10-22",
-          8
-        ],
-        [
-          "2026-10-23",
-          5
-        ],
-        [
-          "2026-10-25",
           6
-        ],
-        [
-          "2026-10-26",
-          9
-        ],
-        [
-          "2026-10-30",
-          2
-        ],
-        [
-          "2026-11-01",
-          13
-        ],
-        [
-          "2026-11-02",
-          14
         ]
       ]
     ],
@@ -773,35 +577,7 @@
         ],
         [
           "2026-10-21",
-          11
-        ],
-        [
-          "2026-10-22",
           6
-        ],
-        [
-          "2026-10-23",
-          5
-        ],
-        [
-          "2026-10-25",
-          6
-        ],
-        [
-          "2026-10-26",
-          9
-        ],
-        [
-          "2026-10-30",
-          2
-        ],
-        [
-          "2026-11-01",
-          13
-        ],
-        [
-          "2026-11-02",
-          14
         ]
       ]
     ],
@@ -810,11 +586,11 @@
       [
         [
           "05:00",
-          45
+          22
         ],
         [
           "06:00",
-          16
+          6
         ],
         [
           "07:00",
@@ -826,23 +602,11 @@
         ],
         [
           "09:00",
-          8
-        ],
-        [
-          "10:00",
-          9
-        ],
-        [
-          "12:00",
-          1
+          6
         ],
         [
           "16:00",
-          9
-        ],
-        [
-          "17:00",
-          5
+          4
         ],
         [
           "18:00",
@@ -850,7 +614,7 @@
         ],
         [
           "19:00",
-          18
+          13
         ],
         [
           "20:00",
@@ -862,32 +626,32 @@
       "יום בשבוע לפי זמן צילום",
       [
         [
-          "ראשון",
-          32
-        ],
-        [
-          "שני",
-          25
-        ],
-        [
           "שלישי",
           19
         ],
         [
+          "ראשון",
+          13
+        ],
+        [
           "רביעי",
-          18
+          13
         ],
         [
           "שישי",
-          17
-        ],
-        [
-          "חמישי",
-          12
+          10
         ],
         [
           "שבת",
           7
+        ],
+        [
+          "חמישי",
+          6
+        ],
+        [
+          "שני",
+          2
         ]
       ]
     ],
@@ -904,15 +668,7 @@
         ],
         [
           "2026-W43",
-          37
-        ],
-        [
-          "2026-W44",
-          24
-        ],
-        [
-          "2026-W45",
-          14
+          15
         ]
       ]
     ],
@@ -921,19 +677,19 @@
       [
         [
           "חניה על מדרכה",
-          146
+          98
         ],
         [
           "red_white_curb",
-          15
+          10
         ],
         [
           "חניה במעבר חציה",
-          9
+          7
         ],
         [
           "bus_stop_parking",
-          4
+          3
         ],
         [
           "crosswalk_obstruction",
@@ -952,30 +708,6 @@
           2
         ],
         [
-          "broken_sidewalk_asphalt",
-          1
-        ],
-        [
-          "construction_obstacle_sidewalk",
-          1
-        ],
-        [
-          "cycle_path_block",
-          1
-        ],
-        [
-          "junction_parking",
-          1
-        ],
-        [
-          "private_parking_block",
-          1
-        ],
-        [
-          "red_white_crosswalk",
-          1
-        ],
-        [
           "חסימת רמפה",
           1
         ]
@@ -989,14 +721,14 @@
       0,
       0,
       0,
-      15,
-      7,
       0,
       0,
       0,
       0,
       0,
-      1,
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -1055,7 +787,7 @@
       2,
       0,
       0,
-      6,
+      1,
       0,
       0,
       0,
@@ -1067,8 +799,8 @@
       0,
       0,
       0,
-      3,
-      3,
+      0,
+      0,
       0,
       0,
       0,
@@ -1093,11 +825,11 @@
       0,
       0,
       0,
-      7,
+      2,
       0,
       0,
       2,
-      8,
+      6,
       0,
       0,
       0,
@@ -1150,14 +882,14 @@
       6,
       0,
       0,
-      9,
       0,
       0,
       0,
       0,
       0,
-      5,
-      5,
+      0,
+      0,
+      0,
       2,
       0,
       1,
@@ -1168,18 +900,8 @@
   ],
   "vehicle_registry": [
     {
-      "plate": "23895403",
-      "reports": 8,
-      "registry_colour": "אפור בהיר",
-      "licence_valid_until": "2027-01-07",
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
       "plate": "44057403",
-      "reports": 8,
+      "reports": 5,
       "registry_colour": "כסף",
       "licence_valid_until": "2027-05-03",
       "test_date": null,
@@ -1188,50 +910,10 @@
       "recorded_vehicle_description": ""
     },
     {
-      "plate": "3707811",
-      "reports": 7,
-      "registry_colour": "שחור",
-      "licence_valid_until": "2027-07-17",
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "16855201",
-      "reports": 5,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-06-09",
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "21712",
-      "reports": 5,
-      "registry_colour": null,
-      "licence_valid_until": "reports/2026-10-26_0635_21712tav-police/report.json",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "2227734",
+      "plate": "23895403",
       "reports": 4,
-      "registry_colour": "כסף",
-      "licence_valid_until": "2027-05-20",
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "4504208",
-      "reports": 4,
-      "registry_colour": "כחול מטל",
-      "licence_valid_until": "2027-09-25",
+      "registry_colour": "אפור בהיר",
+      "licence_valid_until": "2027-01-07",
       "test_date": null,
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
@@ -1248,16 +930,6 @@
       "recorded_vehicle_description": ""
     },
     {
-      "plate": "9150939",
-      "reports": 4,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-01-18",
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
       "plate": "11840103",
       "reports": 3,
       "registry_colour": "אפור",
@@ -1268,12 +940,52 @@
       "recorded_vehicle_description": "KONA grey"
     },
     {
+      "plate": "16855201",
+      "reports": 3,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-06-09",
+      "test_date": null,
+      "has_disability_tag": null,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "ECLIPSE CROSS"
+    },
+    {
+      "plate": "21712",
+      "reports": 3,
+      "registry_colour": null,
+      "licence_valid_until": null,
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": ""
+    },
+    {
       "plate": "3227458",
       "reports": 3,
       "registry_colour": "כסף מטלי",
       "licence_valid_until": "2026-11-27",
       "test_date": null,
       "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": ""
+    },
+    {
+      "plate": "3707811",
+      "reports": 3,
+      "registry_colour": "שחור",
+      "licence_valid_until": "2027-07-17",
+      "test_date": null,
+      "has_disability_tag": null,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "יונדאי אקסנט שחורה"
+    },
+    {
+      "plate": "4504208",
+      "reports": 3,
+      "registry_colour": "כחול מטל",
+      "licence_valid_until": "2027-09-25",
+      "test_date": null,
+      "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": ""
     },
@@ -1308,14 +1020,14 @@
       "recorded_vehicle_description": ""
     },
     {
-      "plate": "87583802",
+      "plate": "9150939",
       "reports": 3,
       "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-05-03",
+      "licence_valid_until": "2027-01-18",
       "test_date": null,
-      "has_disability_tag": true,
+      "has_disability_tag": null,
       "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "טויוטה קורולה שנהב לבן"
+      "recorded_vehicle_description": ""
     },
     {
       "plate": "12102101",
@@ -1338,36 +1050,6 @@
       "recorded_vehicle_description": ""
     },
     {
-      "plate": "28861704",
-      "reports": 2,
-      "registry_colour": "אפור",
-      "licence_valid_until": "2027-04-13",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "3976534",
-      "reports": 2,
-      "registry_colour": "כסף",
-      "licence_valid_until": "2026-10-24",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "45602901",
-      "reports": 2,
-      "registry_colour": null,
-      "licence_valid_until": "2027-10-13",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
       "plate": "46262503",
       "reports": 2,
       "registry_colour": "שנהב לבן",
@@ -1376,36 +1058,6 @@
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "COROLLA white"
-    },
-    {
-      "plate": "59924904",
-      "reports": 2,
-      "registry_colour": "שחור מטלי",
-      "licence_valid_until": "2027-04-26",
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "6159978",
-      "reports": 2,
-      "registry_colour": "כסף",
-      "licence_valid_until": "2027-05-09",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "6790937",
-      "reports": 2,
-      "registry_colour": "כחול",
-      "licence_valid_until": "2027-01-03",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
     },
     {
       "plate": "6841458",
@@ -1458,14 +1110,14 @@
       "recorded_vehicle_description": ""
     },
     {
-      "plate": "91695201",
+      "plate": "87583802",
       "reports": 2,
-      "registry_colour": "אפור ברונזה",
-      "licence_valid_until": "2027-08-24",
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-05-03",
       "test_date": null,
       "has_disability_tag": true,
       "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "מרצדס E220 אפור ברונזה"
+      "recorded_vehicle_description": "טויוטה קורולה שנהב לבן"
     },
     {
       "plate": "9632254",
@@ -1508,14 +1160,14 @@
       "recorded_vehicle_description": "קיה פיקנטו כסופה כהה"
     },
     {
-      "plate": "22308203",
+      "plate": "2227734",
       "reports": 1,
-      "registry_colour": "בז",
-      "licence_valid_until": "2026-11-29",
+      "registry_colour": "כסף",
+      "licence_valid_until": "2027-05-20",
       "test_date": null,
-      "has_disability_tag": true,
+      "has_disability_tag": null,
       "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "טויוטה AYGO X בז'"
+      "recorded_vehicle_description": "I30"
     },
     {
       "plate": "23588803",
@@ -1568,26 +1220,6 @@
       "recorded_vehicle_description": "מיצובישי ספייס סטאר לבן"
     },
     {
-      "plate": "26063901",
-      "reports": 1,
-      "registry_colour": "שחור מטלי",
-      "licence_valid_until": "2027-10-01",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": "2024-12-17",
-      "recorded_vehicle_description": "סקודה סיטיגו שחורה"
-    },
-    {
-      "plate": "2659730",
-      "reports": 1,
-      "registry_colour": "שחור מטלי",
-      "licence_valid_until": "2026-11-22",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": "2025-11-28",
-      "recorded_vehicle_description": "ב.מ.וו X4 שחורה"
-    },
-    {
       "plate": "27283502",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -1628,36 +1260,6 @@
       "recorded_vehicle_description": "סוזוקי ויטרה לבנה"
     },
     {
-      "plate": "31441302",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-06-27",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": "2025-07-17",
-      "recorded_vehicle_description": "מ.ג EHS לבן"
-    },
-    {
-      "plate": "32002902",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-09-28",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "סקודה קאמיק שנהב לבן"
-    },
-    {
-      "plate": "3223566",
-      "reports": 1,
-      "registry_colour": null,
-      "licence_valid_until": null,
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "מיצובישי לנסר כסוף"
-    },
-    {
       "plate": "32730802",
       "reports": 1,
       "registry_colour": null,
@@ -1688,16 +1290,6 @@
       "recorded_vehicle_description": "MG3 שנהב לבן"
     },
     {
-      "plate": "35859902",
-      "reports": 1,
-      "registry_colour": "שחור מטלי",
-      "licence_valid_until": "2026-11-09",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "יונדאי איוניק הייבריד שחור מטלי"
-    },
-    {
       "plate": "36630602",
       "reports": 1,
       "registry_colour": "שחור",
@@ -1706,16 +1298,6 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "פורד שחורה"
-    },
-    {
-      "plate": "36687504",
-      "reports": 1,
-      "registry_colour": null,
-      "licence_valid_until": null,
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "יונדאי ונייו לבנה"
     },
     {
       "plate": "3689237",
@@ -1728,6 +1310,16 @@
       "recorded_vehicle_description": "Mitsubishi Outlander white"
     },
     {
+      "plate": "3976534",
+      "reports": 1,
+      "registry_colour": "כסף",
+      "licence_valid_until": "2026-10-24",
+      "test_date": null,
+      "has_disability_tag": null,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "יונדאי אלנטרה כסופה"
+    },
+    {
       "plate": "42535201",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -1738,16 +1330,6 @@
       "recorded_vehicle_description": "SPORTAGE"
     },
     {
-      "plate": "43095901",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-01-26",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": "2025-04-08",
-      "recorded_vehicle_description": "קיה פיקנטו לבנה"
-    },
-    {
       "plate": "4409333",
       "reports": 1,
       "registry_colour": "בז",
@@ -1756,6 +1338,16 @@
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "CEED"
+    },
+    {
+      "plate": "45602901",
+      "reports": 1,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-10-13",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "טויוטה ראב 4 שנהב לבן"
     },
     {
       "plate": "46508603",
@@ -1778,16 +1370,6 @@
       "recorded_vehicle_description": "לינק אנד קו 08 לבנה"
     },
     {
-      "plate": "4835954",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-07-29",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": "2024-09-22",
-      "recorded_vehicle_description": "סיאט איביזה לבנה"
-    },
-    {
       "plate": "49372801",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -1806,26 +1388,6 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "סובארו פורסטר ספורט אפורה כהה"
-    },
-    {
-      "plate": "5036830",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-04-09",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "טויוטה RAV4 שנהב לבן"
-    },
-    {
-      "plate": "51474101",
-      "reports": 1,
-      "registry_colour": null,
-      "licence_valid_until": null,
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "מיצובישי אאוטלנדר כחול"
     },
     {
       "plate": "51628803",
@@ -1848,16 +1410,6 @@
       "recorded_vehicle_description": "טויוטה קורולה לבנה"
     },
     {
-      "plate": "53056104",
-      "reports": 1,
-      "registry_colour": "כסוף כהה",
-      "licence_valid_until": "2027-03-15",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "קיה ספורטז' כסוף כהה"
-    },
-    {
       "plate": "5326231",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -1878,26 +1430,6 @@
       "recorded_vehicle_description": "FABIA"
     },
     {
-      "plate": "5397253",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-08-04",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": "2025-07-13",
-      "recorded_vehicle_description": "פולקסווגן פולו לבן"
-    },
-    {
-      "plate": "5839312",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-10-13",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": "2025-12-23",
-      "recorded_vehicle_description": "יונדאי i35 לבן"
-    },
-    {
       "plate": "59366002",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -1906,16 +1438,6 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "סוזוקי איגניס שנהב לבן"
-    },
-    {
-      "plate": "6052080",
-      "reports": 1,
-      "registry_colour": "כסף",
-      "licence_valid_until": "2027-02-05",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "סיטרואן C4 קקטוס כסוף"
     },
     {
       "plate": "60897302",
@@ -1936,6 +1458,16 @@
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "XC60 T5"
+    },
+    {
+      "plate": "6159978",
+      "reports": 1,
+      "registry_colour": "כסף",
+      "licence_valid_until": "2027-05-09",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "שברולט ספארק כסופה"
     },
     {
       "plate": "62549702",
@@ -1978,16 +1510,6 @@
       "recorded_vehicle_description": "SWIFT"
     },
     {
-      "plate": "64541902",
-      "reports": 1,
-      "registry_colour": "אפור",
-      "licence_valid_until": "2027-06-20",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "מזדה 6 אפורה"
-    },
-    {
       "plate": "6475732",
       "reports": 1,
       "registry_colour": "שחור",
@@ -2016,6 +1538,16 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "מזדה 3 אפורה"
+    },
+    {
+      "plate": "6790937",
+      "reports": 1,
+      "registry_colour": "כחול",
+      "licence_valid_until": "2027-01-03",
+      "test_date": null,
+      "has_disability_tag": null,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "רנו קליאו כחולה"
     },
     {
       "plate": "6872154",
@@ -2108,16 +1640,6 @@
       "recorded_vehicle_description": "I10"
     },
     {
-      "plate": "74484404",
-      "reports": 1,
-      "registry_colour": null,
-      "licence_valid_until": null,
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "טנדר שברולט סילברדו אפור-כסוף"
-    },
-    {
       "plate": "74511303",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -2126,26 +1648,6 @@
       "has_disability_tag": false,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "טויוטה אייגו X לבנה"
-    },
-    {
-      "plate": "7543371",
-      "reports": 1,
-      "registry_colour": "כסוף כהה",
-      "licence_valid_until": "2026-11-09",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "מזדה 5 כסופה"
-    },
-    {
-      "plate": "7599854",
-      "reports": 1,
-      "registry_colour": null,
-      "licence_valid_until": null,
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "פורד אקספלורר כסוף"
     },
     {
       "plate": "76568201",
@@ -2178,26 +1680,6 @@
       "recorded_vehicle_description": "סובארו פורסטר כסופה"
     },
     {
-      "plate": "8044837",
-      "reports": 1,
-      "registry_colour": "שחור מטלי",
-      "licence_valid_until": "2027-06-29",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "דאצ'יה סנדרו שחורה"
-    },
-    {
-      "plate": "8048079",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-09-08",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "טויוטה קורולה לבנה"
-    },
-    {
       "plate": "82660901",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -2206,16 +1688,6 @@
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "ASX"
-    },
-    {
-      "plate": "8267780",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-03-20",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "פיאט 500 שנהב לבן"
     },
     {
       "plate": "82733101",
@@ -2238,46 +1710,6 @@
       "recorded_vehicle_description": "COROLLA"
     },
     {
-      "plate": "85264703",
-      "reports": 1,
-      "registry_colour": null,
-      "licence_valid_until": null,
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "קיה סלטוס אפור כהה"
-    },
-    {
-      "plate": "85572002",
-      "reports": 1,
-      "registry_colour": "אפור",
-      "licence_valid_until": "2027-03-26",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "קיה פיקנטו אפור"
-    },
-    {
-      "plate": "8692953",
-      "reports": 1,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-09-16",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": "2025-12-08",
-      "recorded_vehicle_description": "סוזוקי ספלאש לבנה"
-    },
-    {
-      "plate": "88687001",
-      "reports": 1,
-      "registry_colour": "שחור",
-      "licence_valid_until": "2027-05-24",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "יונדאי אקסנט שחורה"
-    },
-    {
       "plate": "8995334",
       "reports": 1,
       "registry_colour": "אפור בהיר",
@@ -2286,16 +1718,6 @@
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "C4 CACTUS"
-    },
-    {
-      "plate": "9039675",
-      "reports": 1,
-      "registry_colour": null,
-      "licence_valid_until": null,
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "משאית עם גרור"
     },
     {
       "plate": "9511932",
@@ -2308,16 +1730,6 @@
       "recorded_vehicle_description": "Chevrolet Captiva"
     },
     {
-      "plate": "9689354",
-      "reports": 1,
-      "registry_colour": "כחול",
-      "licence_valid_until": "2027-04-04",
-      "test_date": null,
-      "has_disability_tag": false,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "מזדה 6 כחולה"
-    },
-    {
       "plate": "9756234",
       "reports": 1,
       "registry_colour": "שנהב לבן",
@@ -2328,5 +1740,5 @@
       "recorded_vehicle_description": "YARIS"
     }
   ],
-  "missing_capture_count": 59
+  "missing_capture_count": 57
 }
