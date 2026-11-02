@@ -2,8 +2,8 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 192,
-    "sidewalk": 148,
+    "filed": 193,
+    "sidewalk": 149,
     "vehicles": 118,
     "repeat_vehicles": 32
   },
@@ -13,7 +13,7 @@
       [
         [
           "הפורצים",
-          52
+          53
         ],
         [
           "חרלפ",
@@ -98,7 +98,7 @@
         ],
         [
           "הפורצים",
-          58
+          59
         ],
         [
           "הפלמח",
@@ -218,6 +218,10 @@
           4
         ],
         [
+          "55163803",
+          4
+        ],
+        [
           "83040702",
           4
         ],
@@ -239,10 +243,6 @@
         ],
         [
           "49294001",
-          3
-        ],
-        [
-          "55163803",
           3
         ],
         [
@@ -748,7 +748,7 @@
         ],
         [
           "2026-11-02",
-          17
+          18
         ]
       ]
     ],
@@ -817,7 +817,7 @@
         ],
         [
           "2026-11-02",
-          17
+          18
         ]
       ]
     ],
@@ -858,7 +858,7 @@
         ],
         [
           "16:00",
-          11
+          12
         ],
         [
           "17:00",
@@ -887,7 +887,7 @@
         ],
         [
           "שני",
-          28
+          29
         ],
         [
           "שלישי",
@@ -932,7 +932,7 @@
         ],
         [
           "2026-W45",
-          17
+          18
         ]
       ]
     ],
@@ -941,7 +941,7 @@
       [
         [
           "חניה על מדרכה",
-          148
+          149
         ],
         [
           "red_white_curb",
@@ -1020,7 +1020,7 @@
       0,
       1,
       0,
-      2,
+      3,
       0,
       2,
       0,
@@ -1258,6 +1258,16 @@
       "recorded_vehicle_description": ""
     },
     {
+      "plate": "55163803",
+      "reports": 4,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-09-26",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": ""
+    },
+    {
       "plate": "83040702",
       "reports": 4,
       "registry_colour": "כסף מטלי",
@@ -1312,16 +1322,6 @@
       "reports": 3,
       "registry_colour": "שנהב לבן",
       "licence_valid_until": "2027-07-02",
-      "test_date": null,
-      "has_disability_tag": null,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "55163803",
-      "reports": 3,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-09-26",
       "test_date": null,
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
