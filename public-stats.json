@@ -2,9 +2,9 @@
   "schema_version": 1,
   "notice": "הנתונים מתארים דיווחים שנאספו, לא את היקף העבירות בעיר. דיווח אינו הוכחה לקנס, לטיפול או לקביעה משפטית. נתוני המאגר הם צילום מצב ואינם מוכיחים תוקף היסטורי. אין תמונות או פרטי מדווח.",
   "totals": {
-    "filed": 190,
-    "sidewalk": 147,
-    "vehicles": 117,
+    "filed": 192,
+    "sidewalk": 148,
+    "vehicles": 118,
     "repeat_vehicles": 32
   },
   "sections": [
@@ -13,7 +13,7 @@
       [
         [
           "הפורצים",
-          51
+          52
         ],
         [
           "חרלפ",
@@ -98,7 +98,7 @@
         ],
         [
           "הפורצים",
-          57
+          58
         ],
         [
           "הפלמח",
@@ -141,6 +141,10 @@
           2
         ],
         [
+          "כובשי קטמון",
+          2
+        ],
+        [
           "רבי חייא (הגדול)",
           2
         ],
@@ -166,10 +170,6 @@
         ],
         [
           "חוסה דה סן מרטין",
-          1
-        ],
-        [
-          "כובשי קטמון",
           1
         ],
         [
@@ -222,6 +222,10 @@
           4
         ],
         [
+          "87583802",
+          4
+        ],
+        [
           "9150939",
           4
         ],
@@ -243,10 +247,6 @@
         ],
         [
           "77924501",
-          3
-        ],
-        [
-          "87583802",
           3
         ],
         [
@@ -626,6 +626,10 @@
           1
         ],
         [
+          "8544860",
+          1
+        ],
+        [
           "85572002",
           1
         ],
@@ -744,7 +748,7 @@
         ],
         [
           "2026-11-02",
-          15
+          17
         ]
       ]
     ],
@@ -813,7 +817,7 @@
         ],
         [
           "2026-11-02",
-          15
+          17
         ]
       ]
     ],
@@ -854,7 +858,7 @@
         ],
         [
           "16:00",
-          9
+          11
         ],
         [
           "17:00",
@@ -883,7 +887,7 @@
         ],
         [
           "שני",
-          26
+          28
         ],
         [
           "שלישי",
@@ -928,7 +932,7 @@
         ],
         [
           "2026-W45",
-          15
+          17
         ]
       ]
     ],
@@ -937,11 +941,11 @@
       [
         [
           "חניה על מדרכה",
-          147
+          148
         ],
         [
           "red_white_curb",
-          15
+          16
         ],
         [
           "חניה במעבר חציה",
@@ -1016,7 +1020,7 @@
       0,
       1,
       0,
-      0,
+      2,
       0,
       2,
       0,
@@ -1264,6 +1268,16 @@
       "recorded_vehicle_description": ""
     },
     {
+      "plate": "87583802",
+      "reports": 4,
+      "registry_colour": "שנהב לבן",
+      "licence_valid_until": "2027-05-03",
+      "test_date": null,
+      "has_disability_tag": true,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "טויוטה קורולה שנהב לבן"
+    },
+    {
       "plate": "9150939",
       "reports": 4,
       "registry_colour": "שנהב לבן",
@@ -1322,16 +1336,6 @@
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": ""
-    },
-    {
-      "plate": "87583802",
-      "reports": 3,
-      "registry_colour": "שנהב לבן",
-      "licence_valid_until": "2027-05-03",
-      "test_date": null,
-      "has_disability_tag": true,
-      "disability_tag_valid_until": null,
-      "recorded_vehicle_description": "טויוטה קורולה שנהב לבן"
     },
     {
       "plate": "12102101",
@@ -2272,6 +2276,16 @@
       "has_disability_tag": null,
       "disability_tag_valid_until": null,
       "recorded_vehicle_description": "קיה סלטוס אפור כהה"
+    },
+    {
+      "plate": "8544860",
+      "reports": 1,
+      "registry_colour": "כסף",
+      "licence_valid_until": "2027-01-27",
+      "test_date": null,
+      "has_disability_tag": false,
+      "disability_tag_valid_until": null,
+      "recorded_vehicle_description": "סוזוקי סוויפט כסופה"
     },
     {
       "plate": "85572002",
