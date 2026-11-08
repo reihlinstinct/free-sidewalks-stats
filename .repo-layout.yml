@@ -18,7 +18,8 @@
       "*.json",
       "*.md",
       "*.yml",
-      "LICENSE"
+      "LICENSE",
+      "deps-inventory.json"
     ],
     "deny": [
       "*.py"
