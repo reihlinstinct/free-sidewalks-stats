@@ -16,9 +16,7 @@
       "evidence": "contents: write",
       "issue": "https://github.com/reihlinstinct/free-sidewalks-stats/issues/13",
       "reason": "Pre-existing workflow-level write permission; tracked for job-level scoping in this issue."
-    }
-  ],
-  "entries": [
+    },
     {
       "path": ".github/workflows/gemini-review.yml",
       "rule": "job-write",
